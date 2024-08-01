@@ -1,4 +1,4 @@
-git clone 
+git clone https://github.com/anasalli/loginapp-Nodejs-Mongodb.git
 cd loginapp-Nodejs-Mongodb/loginapp
 yum install nodejs npm -y
 
