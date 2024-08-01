@@ -1,3 +1,6 @@
+//viwe this file in code view 
+//i am using Rhel 9 and make sure 3000 port is open
+
 git clone https://github.com/anasalli/loginapp-Nodejs-Mongodb.git
 cd loginapp-Nodejs-Mongodb/loginapp
 yum install nodejs npm -y
