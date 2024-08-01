@@ -1,11 +1,11 @@
-//viwe this file in code view 
+//view this file in code view 
 //i am using Rhel 9 and make sure 3000 port is open
 
 git clone https://github.com/anasalli/loginapp-Nodejs-Mongodb.git
 cd loginapp-Nodejs-Mongodb/loginapp
 yum install nodejs npm -y
 
-//install mongoDB
+//install mongoDB (https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-red-hat/#std-label-install-mdb-community-redhat-centos)
 vim /etc/yum.repos.d/mongodb-org-7.0.repo
 [mongodb-org-7.0]
 name=MongoDB Repository
